@@ -50,3 +50,12 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 * No tenemos oficina como tal, el equipo está distribuido entre Huelva, Málaga y Madrid
 * Desarrollamos todo tipo de software relacionado con GNU/Linux y el software libre y también somos expertos en desarrollo web con django.
 * *python-friendliness*: :snake: :snake:
+
+### [QuantiKa14 S.L](http://blog.quantika14.com)
+
+* C/Alcalde Isacio Contreras nº6 Bajo A, 41003, Sevilla, 605 93 89 08 - info@quantika14.com
+* [GitHub](https://github.com/QuantiKa14)
+* [Twitter](https://twitter.com/quantika14)
+* [Localización](http://www.openstreetmap.org/#map=19/37.38671/-5.98464)
+* Desarrollo de herramientas para peritajes informáticos en Linux, Android y Windows. Aplicaciones para minería de datos y creación aplicaciones para hardening y pentesting en WordPress, Joomla y Drupal.
+* *python-friendliness*: :snake: :snake: :snake:
